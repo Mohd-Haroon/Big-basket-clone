@@ -32,7 +32,7 @@ A Quick Tour of our Project
    <li>Payment page</li></ul>
 <p></p>
 
-The Tech Stack used
+The Tech Stack used:-
 React 
 Redux
 Boostrap
