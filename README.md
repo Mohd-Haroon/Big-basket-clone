@@ -32,10 +32,11 @@ A Quick Tour of our Project
    <li>Payment page</li></ul>
 <p></p>
 
-The Tech Stack used:-
-React 
-Redux
-Boostrap
+<ul>The Tech Stack used:-:
+  <li>React</li>
+   <li>Redux</li> 
+  <li>Boostrap UI library</li>
+</ul>
 
 
 Flow of website
