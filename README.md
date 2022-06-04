@@ -11,7 +11,7 @@ Let’s take a look of our project : -
 
 Github link: https://github.com/S-hub1996/Big-basket-clone
 
-Blog link: https://medium.com/@shubhamkashayapverma/big-basket-clone-with-react-932fc3c12cdc
+Live: [https://medium.com/@shubhamkashayapverma/big-basket-clone-with-react-932fc3c12cdc](https://big-basket-clone-by-masai-school.netlify.app/)
 
 About Bigbasket:
 
